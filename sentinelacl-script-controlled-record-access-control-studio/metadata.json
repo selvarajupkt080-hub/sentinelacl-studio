@@ -1,0 +1,6 @@
+{
+  "name": "SentinelACL - Script-Controlled Record Access Control Studio",
+  "description": "Enterprise Access Control List (ACL) engine restricting record and field access dynamically based on field values, caller roles, and custom scripts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
