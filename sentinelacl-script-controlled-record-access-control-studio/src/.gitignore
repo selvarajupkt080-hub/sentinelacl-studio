@@ -1,1 +1,59 @@
+# Dependencies
+node_modules/
 
+# Build output
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Python cache - if used later
+__pycache__/
+*.py[cod]
+
+# Machine Learning model files
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.keras
+*.pt
+*.pth
+*.onnx
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Coverage
+coverage/
+
+# Vite
+.vite/
+
+# Misc
+*.bak
